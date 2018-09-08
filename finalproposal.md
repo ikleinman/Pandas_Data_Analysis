@@ -1,0 +1,2 @@
+The Wintering, Lee and Kleinman data investigators will be studying how a quarterback is drafted and if it is worth it to choose a quarterback in the first round of the NFL draft. Specifically, we will be studying the correlation between college history, physical attributes and combine results, and their success in the NFL. To define success in the NFL, we will study QBR, Pro Bowl appearances, and percentage of earnings. To summarize our findings, we will determine if it is a valuable choice to pick a quarterback in the first round of the NFL draft. 
+
